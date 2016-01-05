@@ -18,7 +18,7 @@ The following list should provide you with the main activities to be done prior 
 In general, XAP runs on every OS supporting the JVM technology (Windows, Linux, Solaris, AIX, HP, etc). See below tuning and configuration recommendations that most of the applications running on GigaSpaces XAP might need.
 
 # Monitoring
-
+ 
 Having reliable monitoring functionality tracking XAP and its surroundings is an important task to be completed **before moving into production**. Correctly monitoring the XAP environment will allow you to proactively take actions (manually/ automatically) before any system failure avoiding bad user experience, data loss or abnormal sudden system shutdown. You may identify an increase with the system usage to allocate additional CPU or memory resources, or identify broken components to be addressed before these actually impact system health or correct system behavior.
 
 The monitoring functionality should track the following:
